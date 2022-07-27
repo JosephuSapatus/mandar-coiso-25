@@ -1,2 +1,2 @@
-# mandar-coiso-25
-batatad2de2
+# PRO-C25-SA
+boilerplate code for student activituy
